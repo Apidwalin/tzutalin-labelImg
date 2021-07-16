@@ -1,2 +1,0 @@
-# labelImg-master
- tzutalin/labelImg
